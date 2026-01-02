@@ -8,6 +8,8 @@ This exploratory, literature-derived analysis aimed to compare the usage of mode
 
 Organoid-based systems have been observed across multiple disease classes, particularly in cancer and autoimmune research, often in studies focused on mechanisms, immune signalling, or early translational questions. While their representation remains lower than that of traditional in vivo models, their cross-disease presence supports the view that organoids are increasingly being adopted as complementary rather than replacement systems. This trend aligns with their ability to recapitulate tissue architecture, while allowing experimental control that is not feasible in whole-animal models.
 
+
+
 ## Continued dominance of mouse models in cancer research
 
 Mouse models remain the most frequently used system in cancer studies, reflecting their established role in tumour biology, immunotherapy evaluation, and systemic immune interactions. Despite the availability of alternative models, the consistency of murine usage underscores their continued relevance for complex in vivo cancer questions, particularly those involving immune–tumour dynamics.
