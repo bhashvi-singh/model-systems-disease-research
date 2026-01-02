@@ -10,6 +10,7 @@ Organoid-based systems have been observed across multiple disease classes, parti
 
 
 
+
 ## Continued dominance of mouse models in cancer research
 
 Mouse models remain the most frequently used system in cancer studies, reflecting their established role in tumour biology, immunotherapy evaluation, and systemic immune interactions. Despite the availability of alternative models, the consistency of murine usage underscores their continued relevance for complex in vivo cancer questions, particularly those involving immune–tumour dynamics.
