@@ -55,3 +55,31 @@ This study is limited by its small sample size and reliance on literature-derive
 ## Conclusion
 
 Overall, this analysis reveals that the choice of model organism in biomedical research is influenced by disease biology, experimental objectives, and translational constraints. While traditional in vivo systems remain central, emerging and alternative models are increasingly integrated in complementary roles. Understanding these patterns is essential for designing biologically appropriate and ethically informed experimental strategies in future disease research.
+
+### Literature references
+
+The analysis dataset was curated from approximately 20 recent (within the last 5 years) peer-reviewed reviews and mechanistic studies covering cancer, HIV-1, and autoimmune disease research. Individual papers were used for data extraction and categorisation rather than direct citation, and representative modelling-focused references are provided below.
+
+Perlman RL. Mouse models of human disease: An evolutionary perspective. Evolution, Medicine, and Public Health, 2016.
+— Foundational overview of strengths and limitations of murine disease models.
+
+Justice MJ, Dhillon P. Using the mouse to model human disease: Increasing validity and reproducibility. Disease Models & Mechanisms, 2016.
+— Explains why mouse models remain central despite known translational limits.
+
+Clevers H. Modeling development and disease with organoids. Cell, 2016.
+— Seminal paper establishing organoids as complementary disease models.
+
+Kim J, Koo BK, Knoblich JA. Human organoids: Model systems for human biology and medicine. Nature Reviews Molecular Cell Biology, 2020.
+— Reviews organoid applications across cancer, immune, and genetic diseases.
+
+Lieschke GJ, Currie PD. Animal models of human disease: Zebrafish swim into view. Nature Reviews Genetics, 2007.
+— Classic reference supporting zebrafish as a versatile but underutilised model.
+
+MacRae CA, Peterson RT. Zebrafish as tools for drug discovery. Nature Reviews Drug Discovery, 2015.
+— Demonstrates translational relevance of zebrafish models.
+
+Hatziioannou T, Evans DT. Animal models for HIV/AIDS research. Nature Reviews Microbiology, 2012.
+— Explains biological constraints of HIV modelling in mice.
+
+Marsden MD, Zack JA. Humanized mouse models for HIV infection. Annual Review of Virology, 2017.
+— Discusses partial solutions and limitations of murine HIV models.
