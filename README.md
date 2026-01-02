@@ -4,6 +4,10 @@ Comparative analysis of model system usage across cancer, HIV-1, and autoimmune 
 # Discussion
 This exploratory, literature-derived analysis aimed to compare the usage of model organisms across cancer, infectious (HIV-1), and autoimmune disease research, with a focus on emerging experimental systems and translational relevance. Rather than evaluating experimental performance, this study examined patterns of model selection reported in recent peer-reviewed studies to identify prevailing trends and potential underutilised systems.
 
+<img width="1074" height="888" alt="Figure 1 in vivo studies" src="https://github.com/user-attachments/assets/de619a04-6b3e-4e2c-b929-1b4decc0d3f9" />
+
+
+
 ## Emergence of organoids as complementary systems
 
 Organoid-based systems have been observed across multiple disease classes, particularly in cancer and autoimmune research, often in studies focused on mechanisms, immune signalling, or early translational questions. While their representation remains lower than that of traditional in vivo models, their cross-disease presence supports the view that organoids are increasingly being adopted as complementary rather than replacement systems. This trend aligns with their ability to recapitulate tissue architecture, while allowing experimental control that is not feasible in whole-animal models.
