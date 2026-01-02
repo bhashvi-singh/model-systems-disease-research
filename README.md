@@ -1,7 +1,7 @@
 # model-systems-disease-research
 Comparative analysis of model system usage across cancer, HIV-1, and autoimmune disease research using recent literature and R-based exploratory analysis.
 
-# DISCUSSION
+# Discussion
 This exploratory, literature-derived analysis aimed to compare the usage of model organisms across cancer, infectious (HIV-1), and autoimmune disease research, with a focus on emerging experimental systems and translational relevance. Rather than evaluating experimental performance, this study examined patterns of model selection reported in recent peer-reviewed studies to identify prevailing trends and potential underutilised systems.
 
 ## Emergence of organoids as complementary systems
